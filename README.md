@@ -40,7 +40,8 @@ This repository may include:
 
 ## 📅 Progress
 
-Day 001
+Day 001 
+Day 002
 
 
 Each day may contain:
