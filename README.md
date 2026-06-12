@@ -40,8 +40,9 @@ This repository may include:
 
 ## 📅 Progress
 
-Day 001 
-Day 002
+✅ Day 001 – Introduction to AI Learning Journey
+✅ Day 002 – Biological Neurons, Artificial Neurons & Activation Functions
+✅ Day 003 – Perceptron
 
 
 Each day may contain:
