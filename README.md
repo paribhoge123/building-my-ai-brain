@@ -48,6 +48,8 @@ This repository may include:
 
 ✅ Day 004 – Activation Functions
 
+✅ Day 005 – Feedforward Neural Networks
+
 
 
 Each day may contain:
