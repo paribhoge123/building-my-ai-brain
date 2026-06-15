@@ -50,6 +50,7 @@ This repository may include:
 
 ✅ Day 005 – Feedforward Neural Networks
 
+✅ Day 006 – Forward Propagation & Loss Functions
 
 
 Each day may contain:
