@@ -52,6 +52,8 @@ This repository may include:
 
 ✅ Day 006 – Forward Propagation & Loss Functions
 
+✅ Day 007 – Gradient Descent
+
 
 Each day may contain:
 
