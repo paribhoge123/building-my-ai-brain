@@ -54,6 +54,9 @@ This repository may include:
 
 ✅ Day 007 – Gradient Descent
 
+✅ Day 008 – Backpropagation
+
+
 
 Each day may contain:
 
