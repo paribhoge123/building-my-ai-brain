@@ -58,6 +58,9 @@ This repository may include:
 
 ✅ Day 009 – Overfitting and Underfitting
 
+✅ Day 010 – CNN Basics
+
+
 
 
 
