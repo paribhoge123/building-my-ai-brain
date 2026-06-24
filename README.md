@@ -63,10 +63,6 @@ This repository may include:
 ✅ Day 011 – RNN Basics
 
 
-
-
-
-
 Each day may contain:
 
 * Topic Learned
