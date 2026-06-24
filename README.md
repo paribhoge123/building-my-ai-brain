@@ -62,6 +62,7 @@ This repository may include:
 
 ✅ Day 011 – RNN Basics
 
+✅ Day 012 – Attention Mechanism & Transformers
 
 Each day may contain:
 
