@@ -60,6 +60,9 @@ This repository may include:
 
 ✅ Day 010 – CNN Basics
 
+✅ Day 011 – RNN Basics
+
+
 
 
 
