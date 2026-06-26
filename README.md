@@ -64,6 +64,8 @@ This repository may include:
 
 ✅ Day 012 – Attention Mechanism & Transformers
 
+✅ Day 013 – Large Language Models (LLMs)
+
 Each day may contain:
 
 * Topic Learned
