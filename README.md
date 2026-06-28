@@ -70,6 +70,9 @@ This repository may include:
 
 ✅ Day 015 – Retrieval-Augmented Generation (RAG)
 
+✅ Day 016 – Function Calling & Tool Use
+
+
 
 
 Each day may contain:
