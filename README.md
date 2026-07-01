@@ -76,6 +76,7 @@ This repository may include:
 
 ✅ Day 018 – Model Context Protocol (MCP)
 
+✅ Day 019 – Fine-Tuning & LoRA
 
 
 
