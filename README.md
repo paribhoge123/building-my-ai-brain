@@ -80,6 +80,8 @@ This repository may include:
 
 ✅ Day 020 – Model Serving & Inference
 
+✅ Day 021 – AI Evaluation (Evals)
+
 
 
 
