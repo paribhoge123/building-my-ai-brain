@@ -82,6 +82,7 @@ This repository may include:
 
 ✅ Day 021 – AI Evaluation (Evals)
 
+✅ Day 022 – LLMOps (Large Language Model Operations)
 
 
 
