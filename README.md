@@ -84,6 +84,7 @@ This repository may include:
 
 ✅ Day 022 – LLMOps (Large Language Model Operations)
 
+✅ Day 023 – AI System Design
 
 
 
