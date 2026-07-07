@@ -86,6 +86,9 @@ This repository may include:
 
 ✅ Day 023 – AI System Design
 
+✅ Day 024 – AI Security & Guardrails
+
+
 
 
 Each day may contain:
