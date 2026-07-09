@@ -88,6 +88,9 @@ This repository may include:
 
 ✅ Day 024 – AI Security & Guardrails
 
+✅ Day 025 – Multimodal AI
+
+
 
 
 
