@@ -90,6 +90,8 @@ This repository may include:
 
 ✅ Day 025 – Multimodal AI
 
+✅ Day 026: Model Distillation (Knowledge Distillation)
+
 
 
 
