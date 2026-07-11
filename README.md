@@ -92,6 +92,8 @@ This repository may include:
 
 ✅ Day 026: Model Distillation (Knowledge Distillation)
 
+✅ Day 027 – AI Caching
+
 
 
 
