@@ -96,6 +96,9 @@ This repository may include:
 
 ✅ Day 028 – Introduction to Machine Learning
 
+✅ Day 032 – Linear Regression
+
+
 
 
 
