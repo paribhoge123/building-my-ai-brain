@@ -98,6 +98,13 @@ This repository may include:
 
 ✅ Day 032 – Linear Regression
 
+✅ Day 033 – Logistic Regression
+
+✅ Day 032 – K-means clustering
+
+
+
+
 
 
 
