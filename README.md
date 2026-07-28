@@ -1,6 +1,6 @@
-# 🚀 100 Days of AI Learning
+# 🧠 Building My AI Brain
 
-Welcome to my 100 Days of AI Learning journey!
+Welcome to **Building My AI Brain** — my 100 Days of AI Learning journey!
 
 I am an Electronics Engineering student with a strong interest in Artificial Intelligence and Machine Learning. This repository is my commitment to learning one new AI/ML concept every day and documenting my progress for 100 consecutive days.
 
