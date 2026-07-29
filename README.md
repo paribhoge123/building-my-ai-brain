@@ -69,8 +69,19 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 027 – AI Caching
 ✅ Day 028 – Introduction to Machine Learning
 ✅ Day 029 – Linear Regression
-✅ Day 030 – Logistic Regression
-✅ Day 031 – K-Means Clustering
+✅ Day 030 – Types of Machine Learning
+✅ Day 031 – Supervised Learning in Depth
+✅ Day 032 – Linear Regression
+✅ Day 033 – Logistic Regression
+✅ Day 034 – K-Means Clustering
+✅ Day 035 – Decision Trees
+✅ Day 036 – Random Forest
+✅ Day 037 – Support Vector Machine (SVM)
+✅ Day 038 – Naive Bayes
+
+
+
+
 
 Each day may contain:
 
