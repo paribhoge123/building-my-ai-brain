@@ -78,6 +78,7 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 036 – Random Forest
 ✅ Day 037 – Support Vector Machine (SVM)
 ✅ Day 038 – Naive Bayes
+✅ Day 039 – K-Means Clustering
 
 
 
