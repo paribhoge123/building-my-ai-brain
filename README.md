@@ -81,7 +81,7 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 039 – K-Means Clustering
 ✅ Day 040 – Hierarchical Clustering
 ✅ Day 041 – Principal Component Analysis (PCA)
-
+✅ Day 042 – Model Evaluation Metrics (Classification)
 
 
 
