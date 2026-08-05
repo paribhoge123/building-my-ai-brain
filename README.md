@@ -83,6 +83,7 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 041 – Principal Component Analysis (PCA)
 ✅ Day 042 – Model Evaluation Metrics (Classification)
 ✅ Day 043 – ROC Curve & AUC Score
+✅ Day 044 – Cross Validation
 
 
 
