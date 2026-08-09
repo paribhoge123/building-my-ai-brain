@@ -87,6 +87,7 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 045 – Bias-Variance Tradeoff
 ✅ Day 046 – Regularization (L1 & L2)
 ✅ Day 047 – Hyperparameter Tuning
+✅ Day 048 – Ensemble Learning
 
 
 
