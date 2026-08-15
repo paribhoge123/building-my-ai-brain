@@ -88,6 +88,7 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 046 – Regularization (L1 & L2)
 ✅ Day 047 – Hyperparameter Tuning
 ✅ Day 048 – Ensemble Learning
+✅ Day 049 – Random Forest in Depth
 
 
 
