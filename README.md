@@ -89,6 +89,7 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 047 – Hyperparameter Tuning
 ✅ Day 048 – Ensemble Learning
 ✅ Day 049 – Random Forest in Depth
+✅ Day 050 – Boosting & AdaBoost
 
 
 
