@@ -93,6 +93,7 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 051 – Gradient Boosting
 ✅ Day 052 – XGBoost
 ✅ Day 053 – LightGBM
+✅ Day 054 – CatBoost & Categorical Features
 
 
 
