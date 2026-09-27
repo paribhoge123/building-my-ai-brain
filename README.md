@@ -105,6 +105,7 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 063 → Model Interpretability
 ✅ Day 064 → Handling Imbalanced Datasets
 ✅ Day 065 → Threshold Tuning & Precision–Recall Trade-offs
+✅ Day 066 → Probability Calibration
 
 
 
