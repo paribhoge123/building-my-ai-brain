@@ -107,6 +107,8 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 065 → Threshold Tuning & Precision–Recall Trade-offs
 ✅ Day 066 → Probability Calibration
 ✅ Day 067 → Machine Learning Model Deployment Basics
+✅ Day 069 —> Connecting React & Node.js to a Machine Learning API
+
 
 
 
